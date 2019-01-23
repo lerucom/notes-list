@@ -1,0 +1,22 @@
+/* будет работать querySelectorAll*/
+[data-id=text] {
+    cursor: pointer;
+}
+
+.task-done {
+    text-decoration: line-through;
+    color: gray;
+}
+
+ul {
+    white-space: normal;
+    overflow: hidden;
+}
+
+button {
+    margin: 2px;
+}
+
+h1 {
+    text-align: center;
+}
